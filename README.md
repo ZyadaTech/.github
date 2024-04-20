@@ -15,7 +15,3 @@ We blend innovative technologies with robust marketing strategies to provide you
 - Visit our [Website](https://www.zyadatech.com)
 - Follow us on [LinkedIn](https://www.linkedin.com/company/zyadatech)
 - Email us at [contact@zyadatech.com](mailto:contact@zyadatech.com)
-
-We are excited to collaborate with you to transform the future of technology. Star our projects to stay updated with our latest innovations!
-
-# #ZyadaTech #InnovateToday #TechSolutions
